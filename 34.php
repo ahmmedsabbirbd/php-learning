@@ -20,6 +20,14 @@
 			"korim"		=> 35
 		);
 
+		$ageONe = [
+			"sabbir1"	=> 20,
+			"sumon"		=> 27,
+			"korim"		=> 35
+		];
+
+		echo $ageONe["sabbir1"] . "<br>";
+
 		foreach( $color as $value ) {
 			echo $value . "<br>";
 		}
